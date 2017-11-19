@@ -1,0 +1,16 @@
+body {
+	background:url('selva.jpg');
+	background-color:#000000;
+}
+
+canvas {
+	background:url('gameswlpp_6.jpg');
+	color:#ffffff;
+	border:2px solid;
+	border-color:#ffffff;
+	border-radius:15px;
+}
+
+#tanque {
+	display:none;
+}
